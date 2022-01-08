@@ -1,0 +1,60 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+/*first section*/
+
+span{
+    color: darkorange;
+    
+}
+
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding: 2%;
+}
+.image{
+    width: 85%;
+}
+.text-1{
+    margin-bottom: 25px;
+}
+.link-1{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 10px 10px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+.first-part{
+    background-image: url(./images/top-banner.png);
+    height: 500px;
+    background-repeat: no-repeat;
+}
+
+/*secend setion*/
+.s-2{
+    margin-top: 30px;
+}
+.link-2{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.text-2{
+    margin-bottom: 25px;
+}
+.part-2{
+    background-image: url(./images/dream-bg.png);
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
